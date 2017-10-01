@@ -5,7 +5,7 @@ class Hash
       #puts arguments
       #puts key
       if value == arguments
-        new_array << key 
+        new_array << key
       end
     end
     new_array
